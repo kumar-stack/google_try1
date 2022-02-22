@@ -17,7 +17,7 @@ body{
     margin: 5px 10px -10px 0px;
 }
 .middle{
-	text-align: -webkit-center;
+	text-align:center;
 }
 .mid{
 	font-size: 70px;
@@ -30,7 +30,10 @@ body{
 .two{
 	color: tomato;
 }
-
+.search_box{
+	display: flex;
+	justify-content: center;
+}
 .middle1{
 	width: 35%;
 	border-radius: 20px;
